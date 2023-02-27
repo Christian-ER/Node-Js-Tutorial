@@ -48,5 +48,5 @@ fs.readdir('./../../basico/file_system', (error, files) => {
 fs.readdirSync('../file_system').forEach(file => {
     console.log(file);
 });
-
+// comentario
 console.log('Finalizado');
